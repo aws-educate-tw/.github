@@ -2,7 +2,7 @@
 
 以您自己的節奏、按您自己的時間、完全免費地培養您的雲端技能
 
-[立即註冊](https://awseducate.tw/2)| [登入 AWS Educate](https://www.awseducate.com/signin/SiteLogin?language=en_US)
+[立即註冊](https://awseducate.tw/2) | [登入 AWS Educate](https://www.awseducate.com/signin/SiteLogin?language=en_US)
 
 ### 立即使用 AWS Educate 開始您的雲端之旅
 AWS Educate 對任何個人開放，無論處於教育、技術經驗或職業生涯的哪個階段。
